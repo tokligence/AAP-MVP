@@ -6,6 +6,7 @@ This repository hosts a runnable MVP of the Agent Authority Protocol control-pla
 - Quickstart: `docs/quickstart.md`
 - Roadmap: `docs/roadmap.md`
 - Protocol spec: [tokligence/aap-spec](https://github.com/tokligence/aap-spec)
+- Agent-agent evolution protocol: `../ICEP-Spec`
 - License: Apache-2.0
 
 ## Project Structure
