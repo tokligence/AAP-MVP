@@ -1,6 +1,8 @@
 # AAP MVP (Agent Authority Protocol)
 
-This folder contains a runnable demo of the **Agent Authority Protocol (AAP)** described in `../aap-spec`. It implements the minimum control-plane primitives:
+This folder contains a runnable demo of the **Agent Authority Protocol (AAP)**
+described in https://github.com/tokligence/AAP. It implements the minimum
+control-plane primitives:
 
 ```
 PROPOSE → EVALUATE → DECIDE → COMMIT
